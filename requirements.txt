@@ -1,0 +1,7 @@
+black==24.8.0
+Django==4.2.16
+flake8==7.1.1
+flake8-commas==4.0.0
+flake8-quotes==3.4.0
+isort==5.13.2
+
